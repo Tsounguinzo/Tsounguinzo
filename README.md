@@ -10,15 +10,16 @@ I'am a Software Engineering Student at the University Of Concordia who really en
 
 ## Fun fact
 
-> 1. I love rockets, In fact i got Level 2 certified by the canadian rocketary association (summer 2022)
-> 
-> 2. I really enjoy math and thats why i participated in IYMC math challanged and ended up with a bronz medal
+> I love rockets, In fact i got Level 2 certified by the canadian rocketary association (summer 2022
+
+> I really enjoy math and thats why i participated in IYMC math challanged and ended up with a bronz medal
 
 
 ## Connect with me
 
 [<img src="https://github.com/Tsounguinzo/devicon/blob/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="25" height="25" />](https://www.linkedin.com/in/beaudelaire-tsoungui-nzodoumkouo-809744231/)  
 
+Let's have a coffee chat😉
 
 ## Language and Tools
 
