@@ -1,3 +1,5 @@
+<img align="right" src="https://media4.giphy.com/media/3owypkjxtrXUvhJiCY/giphy.gif" width="300"/>
+
 # Hi there, i'm Beaudelaire 👋🏽
 
 I'am a Software Engineering Student at the University Of Concordia who really enjoys solving difficult engineering problems.
