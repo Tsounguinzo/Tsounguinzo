@@ -2,24 +2,24 @@
 
 # Hi there, i'm Beaudelaire 👋🏽
 
-I'am a Software Engineering Student at the University Of Concordia who really enjoys solving difficult engineering problems.
+I'm a Software Engineering Student at Concordia University who enjoys tackling challenging engineering problems.
 
-- I am currentlt developing the website and IOS app of [BelongUs](https://docs.google.com/document/d/1IuSOaxtsMd30wU9x3ZmzJ6PDUtk63v7HkQ83sMQtfJ0/edit?usp=sharing), a Whatsapp community for concordia's engineering sudents
+- Currently, I'm developing the website and iOS app for [BelongUs](https://docs.google.com/document/d/1IuSOaxtsMd30wU9x3ZmzJ6PDUtk63v7HkQ83sMQtfJ0/edit?usp=sharing),  a WhatsApp community for Concordia's engineering students.
 
 
 
 ## Fun fact
 
-> I love rockets, In fact i got Level 2 certified by the canadian rocketary association (summer 2022
+> I love rockets! In fact, I earned my Level 2 certification from the Canadian Rocketry Association in the summer of 2022.
 
-> I really enjoy math and thats why i participated in IYMC math challanged and ended up with a bronz medal
+> I also have a passion for math, which led me to participate in the IYMC math challenge, where I was honored with a bronze medal.
 
 
 ## Connect with me
 
 [<img src="https://github.com/Tsounguinzo/devicon/blob/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="25" height="25" />](https://www.linkedin.com/in/beaudelaire-tsoungui-nzodoumkouo-809744231/)  
 
-Let's have a coffee chat😉
+Let's connect and have a coffee chat! 😉
 
 ## Language and Tools
 
