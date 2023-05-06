@@ -31,4 +31,5 @@ Let's connect and have a coffee chat! 😉
 <img src="https://github.com/Tsounguinzo/devicon/blob/master/icons/php/php-original.svg" alt="php" width="25" height="25" />
 <img src="https://github.com/Tsounguinzo/devicon/blob/master/icons/git/git-original.svg" alt="git" width="25" height="25" />
 <img src="https://github.com/Tsounguinzo/devicon/blob/master/icons/swift/swift-original.svg" alt="swift" width="25" height="25" />
+<img src="https://github.com/Tsounguinzo/devicon/blob/master/icons/react/react-original.svg" alt="react" width="25" height="25" />
 </p>
