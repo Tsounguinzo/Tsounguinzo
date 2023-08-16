@@ -4,7 +4,7 @@
 
 I'm a Software Engineering Student at Concordia University who enjoys tackling challenging engineering problems.
 
-- Currently, I'm developing the website and iOS app for [BelongUs](https://docs.google.com/document/d/1IuSOaxtsMd30wU9x3ZmzJ6PDUtk63v7HkQ83sMQtfJ0/edit?usp=sharing),  a WhatsApp community for Concordia's engineering students.
+-  I've created and i'm constantly improving the [concordia engineering's peers community](www.peerscommunityca)
 
 
 
