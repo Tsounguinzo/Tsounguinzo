@@ -4,7 +4,7 @@
 
 I'm a Software Engineering Student at Concordia University who enjoys tackling challenging engineering problems.
 
--  I've created and i'm constantly improving the [concordia engineering's peers community](https://www.peerscommunityca)
+-  I've created and i'm constantly improving the [concordia engineering's peers community](https://www.peerscommunity.ca)
 
 
 
