@@ -7,7 +7,7 @@
 
 ## Current Projects
 
-- **[Concordia Courses](https://github.com/Tsounguinzo/concordia-courses)** - Review your Concordia University courses and instructors
+- **[Concordia Courses](https://concordia.courses)** - Review your Concordia University courses and instructors
 - **[Visual Schedule Builder Export](https://chromewebstore.google.com/detail/Visual%20Schedule%20Builder%20Export/nbapggbchldhdjckbhdhkhlodokjdoha)** - Export your Concordia University Course Schedule to Google Calendar
 
 ### Legacy Work
