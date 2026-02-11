@@ -7,6 +7,7 @@
 
 ## Current Projects
 
+- **[Roam](https://github.com/Tsounguinzo/Roam)** - Pets moving on your screen, making your desktop more lively and fun!
 - **[Concordia Courses](https://concordia.courses)** - Review your Concordia University courses and instructors
 - **[Visual Schedule Builder Export](https://chromewebstore.google.com/detail/Visual%20Schedule%20Builder%20Export/nbapggbchldhdjckbhdhkhlodokjdoha)** - Export your Concordia University Course Schedule to Google Calendar
 
